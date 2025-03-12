@@ -1,0 +1,15 @@
+{
+  "name": "watch-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch --watch-preserve-output app-foobar/app-foobar.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/express": "^5.0.0"
+  }
+}
